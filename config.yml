@@ -1,5 +1,5 @@
 development:
   password: shptka_743a0c865e7575ef52a5cacde896b7f2
-  theme_id: 151274193201
+  theme_id: "151274193201"
   store: hieromynus.myshopify.com
   ignore_files: -config/settings_data.json
